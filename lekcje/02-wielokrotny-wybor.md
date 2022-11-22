@@ -1,4 +1,4 @@
-# Lekcja druga? 22 listopada, 2022
+# Lekcja druga - test wielokrotnego wyboru
 
 Poprzednio wyświetlałeś w inpucie wartość, która jest przechowwyana w zmiennej `suma`.
 

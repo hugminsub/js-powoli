@@ -1,4 +1,4 @@
-# Lekcja pierwsza
+# Lekcja pierwsza - licznik
 
 > Rób -> nauczysz się.
 
