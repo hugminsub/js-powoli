@@ -1,4 +1,4 @@
-# Lekcja druga - test wielokrotnego wyboru
+# Lekcja druga - test wyboru
 
 Poprzednio wyświetlałeś w inpucie wartość, która jest przechowwyana w zmiennej `suma`.
 
@@ -15,7 +15,7 @@ otwórz wczorajszy plik index.html w przeglądarce, a w konsoli wpisz:
 następnie wpisz coś do inputa i raz jeszcze w konsoli wyświetl wartość.
 
 
-## Zadanie na dziś: Test wielokrotnego wyboru
+## Zadanie na dziś: Test wyboru
 
 Jako uczeń, który ma otwarty plik index.html, chcę móc udzielić odpowiedzi na pytanie wpisująć "A, B, C, albo D" i klikając przycisk "sprawdź odpowiedź" dowiedzieć się, czy prawidłowo wpisałem odpowiedź.
 
@@ -32,7 +32,7 @@ Jako uczeń, który ma otwarty plik index.html, chcę móc udzielić odpowiedzi
 1. W input mogę wpisać literę wielką lub małą,
 1. Skrypt musi umieć rozpoznawać zarówno małe jak i wielkie litery (`ABCDabcd`)
 1. Rezultatem są 2 pliki: index.html oraz test.js
-1. Skrypty są wgrane do repozytorium o nazwie "js-wielokrotny-wybor"
+1. Skrypty są wgrane do repozytorium o nazwie "js-wybor"
 1. Znajdź odpowiedź do pytania i oprogramuj odpowiednio
 
 **Treść i wygląd zadania**
