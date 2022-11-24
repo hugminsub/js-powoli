@@ -8,7 +8,7 @@ atrybut `value` przyjmuje wartość, ale też ją zwraca:
 
 ### Spróbuj!
 
-otwórz wczorajszy plik index.html w przeglądarce, a w konsoli wpisz:
+otwórz poprzedni plik index.html w przeglądarce, a w konsoli wpisz:
 
 `console.log(document.getElementById("wynik").value)`
 
@@ -51,6 +51,7 @@ odpowiedź: [_________] <sprawdź odpowiedź>
 **Przydatne wskazówki**
 
 - `<button`
+- `<by>`
 - `<input`
 - `console.log("MAŁE LITERY".toLowerCase())`
 - `if ("słowo" == "nie pasuje") { alert("takie same")} else {alert("różnią się")}`
