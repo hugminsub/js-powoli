@@ -51,7 +51,7 @@ odpowiedź: [_________] <sprawdź odpowiedź>
 **Przydatne wskazówki**
 
 - `<button`
-- `<by>`
+- `<li>`
 - `<input`
 - `console.log("MAŁE LITERY".toLowerCase())`
 - `if ("słowo" == "nie pasuje") { alert("takie same")} else {alert("różnią się")}`
