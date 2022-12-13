@@ -155,8 +155,8 @@ Na dziś, po prostu skopiuj i wklej. Nauszysz sie wszystkiego z czasem
 
 1. Materiał do nauki
    - html
-     - <button>
-     - <input>
-     - attr "id"
-   - addEventListener
-   - document.getElementById
+     - `<button>`
+     - `<input>`
+     - `attr "id"`
+   - `addEventListener`
+   - `document.getElementById`
